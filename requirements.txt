@@ -1,0 +1,13 @@
+pandas==1.1.5
+snscrape==0.3.4
+boto3==1.21.30
+awscli==1.22.95
+nltk==3.6.7
+gensim==4.1.2
+yfinance== 0.1.70
+pytrends==4.8.0
+yahoo-fin==0.8.9.1
+sklearn==0.0
+tensorflow==2.8.0
+huggingface-hub==0.4.0
+transformers==4.18.0
