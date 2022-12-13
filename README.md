@@ -1,5 +1,3 @@
-# IS3107
-
 This project proposes a combined proof of concept data pipeline that handles both traditional and technical analysis of Singapore stock market data (SGX) by pulling market data such as company performance and financial ratios as well as sentiment data from social media and news outlets.
 
 The pipelines automatically process the data to churn out company recommendations based on qualitative and quantitative metrics, as well as forecasting of company prices and performance through the use of machine learning models such as FinBERT Natural Language Processing and Long Short-Term Memory Neural Networks.
